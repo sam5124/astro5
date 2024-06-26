@@ -1,0 +1,25 @@
+{
+  "site": {
+    "title": "Libre Know",
+    "base_url": "https://pabloarak.github.io",
+    "base_path": "/",
+    "favicon": "/favicon.png",
+    "logo": "https://i.imgur.com/JNtrujX.png",
+    "lang": "en",
+    "description": "Full Stack Developer specialized in Backend",
+    "pageSize": 6
+  },
+  "features": {
+    "youtube": false,
+    "dark_mode": true
+  },
+  "metadata": {
+    "meta_author": "Pablo Arak",
+    "meta_description": "Full Stack Developer specialized in Backend"
+  },
+  "author": {
+    "name": "Pablo Arak",
+    "avatar": "https://i.imgur.com/FEKk6a6.jpg",
+    "bio": "Full Stack Developer specialized in Backend"
+  }
+}
